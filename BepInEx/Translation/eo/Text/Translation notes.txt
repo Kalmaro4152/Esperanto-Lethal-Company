@@ -1,9 +1,0 @@
-#Missing Translations
-Flask
-Server disconnected message
-Picking Lock //How?
-
-#Wrong Translations
-
-
-
