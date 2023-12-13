@@ -73,7 +73,8 @@ Join=Aliĝi
 
 LAN= LAN
 LAUNCH MODE=LANĈMODO
-Loading...=Malfermi...
+Loading...=Ŝarĝi...
+Local-only=Nur Loko
 Look sensitivity:=Sentemeco：
 
 Master volume:=Precipa Laŭteco：
@@ -108,6 +109,8 @@ Welcome!=Bonvenon!
 Window=Fenestro
 Windowed fullscreen=Fenestra Plenekrano
 Would you like to leave the game?=Ĉu vi ŝatus forlasi la ludon?
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Vi estas en LAN-modo. Kiam vi permesas forajn konektojn tra LAN, bonvolu certigi, ke vi havas sufiĉan retsekurecon kiel fajroŝirmilon kaj/aŭ VPN.
+(Launched in LAN mode)=(Lanĉis en LAN-modo)
 
 #Rebind Controls
 Button East=Butono Orienta
