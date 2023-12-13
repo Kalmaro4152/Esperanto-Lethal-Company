@@ -1,0 +1,9 @@
+{
+  "name": "Amateur Esperanto Translation",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Kalmaro4152/Esperanto-Lethal-Company",
+  "description": "Amatora Esperanta Tradukado de Lethal Company farita kiel praktiko! Ĝi faris per Unity Autotranslate, parigita kun mane tradukado. Mi uzis la latinan tradukan modon kiel bazon ĉar LudusTranslationis havis mirindan dosierstrukturan, kaj gvidis min en la ĝusta direkto. Mi ankaŭ ricevis amason da helpo de la kuratoro de la rusa traduka modo, LynxBite! Dankon pro via helpo!\nAn Amateur Esperanto Translation of Lethal Company done as practice using Unity Autotranslate, paired with manually translating. I used the Latin Translation mod as a base since LudusTranslationis had an amazing file structure setup, and guided me in the right direction. I also got a bunch of help from the curator of the Russian Translation mod, LynxBite! Thank you for all of your help!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
