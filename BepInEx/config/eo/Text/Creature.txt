@@ -14,12 +14,8 @@ Forest keeper=Arbara Grandulo
 Ghost girl=Fantoma Knabino
 Hoarding bug=Akaparanta Insekto
 Hygrodere=Hajgrodero
-Jeb=Jebediah, THE BOI
-#change me later
-
-Jester=Se vi povas legi ĉi tiun, estas tro malfrue
-#change me later
-
+Jeb=Jeb
+Jester=Spritulo
 Landmine=Termino
 Manticoil=Manticolo
 Nutcracker=Nuksrompilo
