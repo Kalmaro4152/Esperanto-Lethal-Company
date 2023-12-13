@@ -1,0 +1,30 @@
+﻿# Creatures
+#TODO: Review and Standardize
+
+Baboon hawk=Paviana Akcipitro
+Bracken=Brakeno
+Bunker spider=Bunkra Araneo
+Circuit bees=Cirkvitaj Abeloj
+Coil-head=Risorta-Kapo
+Earth leviathan=Tera Levjatano
+Eyeless dog=Senokula Hundo
+Flowerman=Floroviro
+Forest Giant=Arbara Grandulo
+Forest keeper=Arbara Grandulo
+Ghost girl=Fantoma Knabino
+Hoarding bug=Akaparanta Insekto
+Hygrodere=Hajgrodero
+Jeb=Jebediah, THE BOI
+#change me later
+
+Jester=Se vi povas legi ĉi tiun, estas tro malfrue
+#change me later
+
+Landmine=Termino
+Manticoil=Manticolo
+Nutcracker=Nuksrompilo
+Roaming locusts=Vaganta Akrido
+Snare flea=Kaptila Pulo
+Spore lizard=Spora Lacerto
+Thumper=Frapegulo
+Turret=Pafiltureto
