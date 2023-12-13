@@ -86,7 +86,7 @@ Hairdryer =Harsekigilo
 Hairdryer=Harsekigilo
 Hive =Abelujo 
 Hive=Abelujo
-Homemade flashbang : [G]=Hejmfarita Ekbru-brileton: [G]
+Homemade flashbang=Hejmfarita Ekbru-brileton
 
 #In Latin: Transportātor inversus
 Inverse Teleporter=Inversa Teleportilo
@@ -155,11 +155,13 @@ r:"^Magic 7 ball(.*)"=Magia Sep Pilko $1
 
 # S-Z
 Ship=Kosmoŝipo
+Shotgun=Caŝpafilo
+Shotgun shell=Kartoĉo
 Shovel =Fosilo 
 Shovel=Fosilo
 Shower=Duŝejo
-Shell=Kartoĉo
-Shell =Kartoĉo
+Signal Translator=Signaltradukilo
+Signal Transmitter=Signaldissendilo
 Sneakers =Sportŝuo 
 Sneakers=Sportŝuo
 Spray paint =Sprajfarbo 
@@ -187,6 +189,7 @@ Toy cube=Ludila Kubo
 Toy robot =Ludila Roboto 
 Toy robot=Ludila Roboto
 Tragedy=Tragedio
+Tragedy =Tragedio 
 TZP-Inhalant =Enspirita TZP 
 V-type engine =V-Modela Motoro 
 V-type engine=V-Modela Motoro
