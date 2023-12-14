@@ -176,6 +176,7 @@ Space=Space
 Sprint=Sprinti
 Store furniture=Stoki Meblojn
 Submit chat=Sendu Babilaĵon
+Turn furniture=Turni Meblojn
 
 Walk back=Marŝi Malantaŭen
 Walk forward=Marŝi Antaŭen
