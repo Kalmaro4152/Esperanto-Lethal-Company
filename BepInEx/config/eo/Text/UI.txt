@@ -11,10 +11,12 @@ Alert! The autopilot is leaving due to dangerous conditions.=AVERTO! La aŭtopil
 ALERT!=ALERTO!
 An error occurred!=Okazis Eraron!
 An error occured!=Okazis Eraron!
+
 Blast=Explodo
 bludgeoning=Bastonego
 BROADCASTED SPECIAL CODE=DISSENDIS SPECIALAN KODON
 Buy flashlights and travel to new planets!=Aĉetu poŝlampojn kaj vojaĝu al novajn planedojn!
+
 Can't stay closed forever=Ne povas resti eterna fermita...
 Change suit=Ŝanĝi Kostumo
 Change: Green suit=Ŝanĝi: Verda Kostumo
@@ -22,26 +24,31 @@ Change: Hazard suit=Ŝanĝi: Hazarda Kostumo
 Change: Pajama suit=Ŝanĝi: Piĵama Kostumo
 Confirm changes?=Konfirmi Ŝanĝojn?
 Continue=Daŭrigi
-Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Ne eblis konektiĝi al STEAM-serviloj! 
-(Se vi nur volas ludi en via loka reto, 
-elektu LAN ĉe lanĉo.)
+Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Ne eblis konektiĝi al STEAM-serviloj! (Se vi nur volas ludi en via loka reto, elektu LAN ĉe lanĉo.)
 CREW:=Ŝipanaro：
 CRITICAL INJURY=KRITIKA VUNDO
+
 DEADLINE:\n NOW=LIMDATO: NUN
 Door controls=Pordaj Stiriloj
 DOOR HYDRAULICS:=PORDA HIDRAŬLIKO：
 Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nun forĵeti viajn metalajn aĵojn! Statika ŝarĝo detekti! Restas al vi sekundoj por vivi!
+
 EMPLOYEE RANK=RANGO DE DUNGITO
 Employee=Dungito
 Error! Could not get the lobby data. Are you offline?=Eraro! Ne eblis akiri la lobiajn datumojn. Ĉu vi estas eksterrete?
+
 Fines=Monpunoj
+
 Got scrap!=Ricevi Peceto!
 Gunshots=Pafilpafoj
+
 HALT!=HALTU!
 HANDS FULL=MANOJ PLENAJ
+
 Intern=Internulo
 Inventory full!=Inventaro plena!
 Item collected!=Kolektis Aĵon!
+
 Lands the ship.=Alteriĝas la Ŝipon.
 Leader=Ĉefo
 Locked=Ŝlosita
@@ -57,7 +64,9 @@ NEW PROFIT QUOTA:=NOVA PROFITA KVOTO：
 None=Neniu
 Notes: \n=Notoj: \n
 Notes:=Notoj:
+
 Option A=Opcio A
+
 Paycheck!=Salajroĉeko!
 PERFORMANCE REPORT=TAKSADA RAPORTO
 Picking lock: (.+) sec.=Pikanta seruro: $1 sek.
@@ -71,9 +80,12 @@ PRIVATE means you must send invites through Steam for players to join.=PRIVATA s
 PUBLIC means your game will be visible on the server list for all to see.=PUBLIKO signifas, ke via ludo estos videbla sur la servillisto por ke ĉiuj vidi..
 Public=Publika
 Push to talk:=Premi por paroli：
+
 QUOTA REACHED!=ANTINGIS KVOTON!
 Quota=Kvoto
+
 RECEIVING SIGNAL=Ricevas ‎Signalon
+
 r:"^(.*) \n AM"=AM $1
 r:"^(.*) \n PM"=PM $1
 r:"^(.*) EXP$"=$1 EXP
@@ -109,10 +121,13 @@ r:"^SHIP: (.+)$"=ŜIPO； $1
 r:"^TOTAL: (.+)$"=SUMO： $1
 r:"^Value: (.+)"=VALORO：$1
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=ALERTO!\n Bonvolu reveni antaŭ (.+)-a. Voĉdono faris, kaj la aŭtopilota ŝipo frue foriros.
+
 Random seed: {{A}}=Stokasto：{{A}}
 Random seed: =Stokasto： 
+
 Sell scrap for cash.=Vendi pecetojn por mono.
 Ship leaving in one hour=Ŝipo foriros post unu horo!
+
 sr:"^(.+?)collected!$"=$1 kolektis！
 sr:"^Cause of death: (.+)$"=Kaŭzo de morto： $1
 sr:"^Drop (.+?): \[G\]$"=Forĵeti $1：[G]
@@ -124,11 +139,13 @@ sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: (
 sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=En Orbito：$1\nPopulacio：$2\nKondiĉoj：$3\nFaŭno：$4\nVetero：$5
 sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=Populacio：$1\nKondiĉoj：$2\nFaŭno：$3
 sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=Populacio：$1\nKondiĉoj：$2\nFaŭno：$3
+
 SPIDER=ARANEO
 Stats=Statistikoj
 Strangulation=Strangolado
 Sustained the most injuries.=Suferis la plej vundojn
 SYSTEMS ONLINE=SISTEMOJ AKTIVAJ
+
 Tell autopilot ship to leave early : [RMB] (Hold)=Diru al la aŭtopilota ŝipo foriri frue ： [RMB]（Tene）
 Terminal=Terminalo
 The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=La aŭtopiloto nun provos flugi al la plej proksima sekura kosmohaveno. Viaj aĵoj estas forlasitaj.
@@ -143,16 +160,21 @@ To sell, use the terminal to route the ship to the company building.=Por vende, 
 TOTAL:=SUMO：
 Training manual=Trejna manlibro
 Typing...=Tajpi...
+
 Uncapped=Sen Limito
 Use the ship computer terminal to access secure doors.=Uzu la ŝipan komputilan terminalon por aliri sekurajn pordojn.
 Useful info!=Utila Informo!
+
 Value: ???=Valoro： ???
 VISIBILITY LOW!\n\nSteam leak detected in area=VIDEBLECO MALALTA!\n\nVaporo liko en areo!
 Voice volume=Volumo de Voĉo
 Voted for ship to leave early=Voĉis por ŝipo foriri frue.
+
 Waiting for crew...=Atendas por ŝipanaro...
+Waiting for input=Atendas Enigon
 Warning! No response from crew, which has not returned. Emergency code activated.=Averto! Neniu respondo de ŝipanaro, kiu ne revenis. Krizkodo aktivigita..
 WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=AVERTO!!! La aŭtopilota ŝipo foriros je noktomezo. Bonvolu reveni rapide.
+
 YOU ARE FIRED.=VI ESTAS MALDUNGITA.
 You did not meet the profit quota before the deadline.=Vi ne atingis la profitkvoton antaŭ la limtago.
 You did not meet the profit quota before the deadline.=Vi ne atingis la profitkvoton antaŭ la limtago.
