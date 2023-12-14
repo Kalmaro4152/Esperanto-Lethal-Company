@@ -7,6 +7,7 @@
   LAN=  LAN
   Online=  Enreta
 (Recommended)=(Rekomendita)
+(Launched in LAN mode)=(Lanĉis en LAN-modo)
 [ Back ]=[  Reen  ]
 [ Confirm ]=[ Konfirmi ]
 [ Continue ]=[ Daŭrigi ]
@@ -106,11 +107,14 @@ Use monitor (V-Sync)=Uzi Ekrano (V-Sync)
 Voice Volume=Voĉa Sonforteco
 
 Welcome!=Bonvenon!
+Welcome! Version 45 is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Bonvenon!\nVersio 45 nun estas disponebla.\nAliaj devas ĝisdatigi sian ludon por ludi kun vi en ĉi tiu versio.\nBonŝancon!
+Version 45 is out!=Versio 45 estas disponebla!
+W=W
 Window=Fenestro
 Windowed fullscreen=Fenestra Plenekrano
 Would you like to leave the game?=Ĉu vi ŝatus forlasi la ludon?
+
 You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Vi estas en LAN-modo. Kiam vi permesas forajn konektojn tra LAN, bonvolu certigi, ke vi havas sufiĉan retsekurecon kiel fajroŝirmilon kaj/aŭ VPN.
-(Launched in LAN mode)=(Lanĉis en LAN-modo)
 
 #Rebind Controls
 Button East=Butono Orienta
