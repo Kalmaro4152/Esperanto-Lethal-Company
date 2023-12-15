@@ -170,7 +170,7 @@ VISIBILITY LOW!\n\nSteam leak detected in area=VIDEBLECO MALALTA!\n\nVaporo liko
 Voice volume=Volumo de Voĉo
 Voted for ship to leave early=Voĉis por ŝipo foriri frue.
 
-Waiting for crew...=Atendas por ŝipanaro...
+Waiting for crew...=Atendas por ŝipanaroj...
 Waiting for input=Atendas Enigon
 Warning! No response from crew, which has not returned. Emergency code activated.=Averto! Neniu respondo de ŝipanaro, kiu ne revenis. Krizkodo aktivigita..
 WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=AVERTO!!! La aŭtopilota ŝipo foriros je noktomezo. Bonvolu reveni rapide.

@@ -4,6 +4,8 @@
 # A-C
 Airhorn =Aerkorno 
 Airhorn=Aerkorno
+Ammo=Municio
+Ammo =Municio 
 Apparatice =Reaktoro 
 Apparatice=Reaktoro
 Apparatus =Reaktoro 
