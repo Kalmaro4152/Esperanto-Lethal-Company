@@ -120,7 +120,7 @@ r:"^(.*)Random seed(.*)$"=Stokasto $2
 r:"^SHIP: (.+)$"=ŜIPO； $1
 r:"^TOTAL: (.+)$"=SUMO： $1
 r:"^Value: (.+)"=VALORO：$1
-r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=ALERTO!\n Bonvolu reveni antaŭ (.+)-a. Voĉdono faris, kaj la aŭtopilota ŝipo frue foriros.
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=ALERTO!\n Bonvolu reveni antaŭ (.+) -a. Voĉdono faris, kaj la aŭtopilota ŝipo frue foriros.
 
 Random seed: {{A}}=Stokasto：{{A}}
 Random seed: =Stokasto： 

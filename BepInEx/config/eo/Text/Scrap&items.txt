@@ -10,6 +10,7 @@ Apparatice =Reaktoro
 Apparatice=Reaktoro
 Apparatus =Reaktoro 
 Apparatus=Reaktoro
+
 Bee hive=Abelujo
 Bell =Sonilo 
 Big bolt =Boltego 
@@ -29,6 +30,7 @@ Brush =Broso
 Brush=Broso
 Bubblegum =Maĉgumo 
 Bubblegum=Maĉgumo
+
 Candy =Dolĉaĵo 
 Candy=Dolĉaĵo
 Cash register =Kasregistrilon 
@@ -61,17 +63,22 @@ Dust pan =Polvujo
 Dust Pan =Polvujo 
 Dust pan=Polvujo
 Dust Pan=Polvujo
+
 Echo Scanner =Eĥa Skanilo 
 Egg beater =Kirlilo 
 Egg Beater =Kirlilo 
 Egg beater=Kirlilo
 Egg Beater=Kirlilo
 Extension ladder =Plilongiga Ŝtuparo 
+
 Fancy lamp =Luksa Lampo 
 Fancy lamp=Luksa Lampo
 Fancy ring =Luksa Ringo 
 Fancy ring=Luksa Ringo
 Flashlight =Poŝlampo 
+Flask=Flakono
+Flask =‎Flakono 
+
 Gift =Donaco 
 Gift box=Donaca Skatolo
 Gold bar =Ora Ingoto 
@@ -80,6 +87,7 @@ Gold Bar=Ora Ingoto
 Gold Bar=Ora Ingoto
 Golden cup =Ora Taso 
 Golden cup=Ora Taso
+
 Hair brush =Harara Broso 
 Hair brush=Harara Broso
 Hairbrush =Harara Broso 
@@ -88,7 +96,7 @@ Hairdryer =Harsekigilo
 Hairdryer=Harsekigilo
 Hive =Abelujo 
 Hive=Abelujo
-Homemade flashbang=Hejmfarita Ekbru-brileton
+Homemade flashbang=Hejmfarita Ekbru-brileto
 
 #In Latin: Transportātor inversus
 Inverse Teleporter=Inversa Teleportilo
@@ -131,6 +139,8 @@ Pickle jar =Kukumetujo
 Pickle jar=Kukumetujo
 Pill Bottle =Pilolujo 
 Pill Bottle=Pilolujo
+Pill bottle =Pilolujo 
+Pill bottle=Pilolujo
 Plastic fish =Plastika Fiŝo 
 Plastic fish=Plastika Fiŝo
 Pro-flashlight =Profesia Poŝlampo 
@@ -164,9 +174,12 @@ Shovel=Fosilo
 Shower=Duŝejo
 Signal Translator=Signaltradukilo
 Signal Transmitter=Signaldissendilo
+Signal translator=Signaltradukilo
+Signal transmitter=Signaldissendilo
 Sneakers =Sportŝuo 
 Sneakers=Sportŝuo
 Spray paint =Sprajfarbo 
+Spray paint=Sprajfarbo
 Steering wheel =Stirrado 
 Steering Wheel =Stirrado 
 Steering wheel=Stirrado
