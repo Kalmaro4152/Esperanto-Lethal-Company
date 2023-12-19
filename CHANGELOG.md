@@ -1,16 +1,25 @@
 ## Release 1.0.0
--Nearly completely translated mod.\n
+-Nearly completely translated mod.
+
 -This does not include the terminal.
 
 ## Release 1.1.5
--Corrected file directories, making the mod useable.\n
--Updated more Strings.\n
--Added Linebreaks to the text files.\n
--Turned off autotranslate.\n
+-Corrected file directories, making the mod useable.
+
+-Updated more Strings.
+
+-Added Linebreaks to the text files.
+
+-Turned off autotranslate.
+
 
 ##Release 1.2.0
--Corrected the casing of all the items in the game.\n
--Added consistency to spacing of UI Elements.\n
--Cleaned up text formatting.\n
--Corrected more translations.\n
+-Corrected the casing of all the items in the game.
+
+-Added consistency to spacing of UI Elements.
+
+-Cleaned up text formatting.
+
+-Corrected more translations.
+
 -We still don't know how to fix the font issues...
