@@ -8,7 +8,7 @@
   Online=  Enreta
 (Recommended)=(Rekomendita)
 (Launched in LAN mode)=(Lanĉis en LAN-modo)
-[ Back ]=[  Reen  ]
+[ Back ]=[ Reen ]
 [ Confirm ]=[ Konfirmi ]
 [ Continue ]=[ Daŭrigi ]
 [ Refresh ]=[Refreŝigi]
@@ -33,11 +33,11 @@
 > Settings=> Agordaĵoj
 
 # A-M
-ACCESSIBILITY=Alirebleco
-Arachnophobia Mode=Arachnofobia reĝimo
+ACCESSIBILITY=ALIREBLECO
+Arachnophobia Mode=Arachnofobia Modo
 Adjust screen brightness until the symbol on the right is barely visible.=Alĝustigu ekranan brilon ĝis la simbolo dekstre estas apenaŭ videbla.
 An error occured when syncing the scene! The host might not have loaded in.=Okazis eraro dum sinkronigas la sceno! La gastiganto eble ne ŝargis.
-Autosaving...=Aŭtokonservado ...
+Autosaving...=Aŭtokonservado
 
 Back=Reen
 BACK=REEN
@@ -45,12 +45,12 @@ BACK=REEN
 > Change keybinds=> Ŝanĝi klavarojn
 CONFIRM= KONFIRMI
 Confirm=Konfirmi
-CONTROLS=Stiriloj
+CONTROLS=REGOJ
 Cosmetics Enabled:=Aktivigis Kosmetikojn：
 Credits=Agnoskoj
 Crew Size:=Grandeco de Ŝipanaro：
 
-Delete=Forgesi
+Delete=Forigi
 Discard changes=Forigi Ŝanĝojn
 Discard=Forigi
 DISCARD=Forigi
@@ -62,10 +62,12 @@ Enter a lobby name!=Enigu Nomon de la Ludvestiblo！
 
 Frame rate cap:=Kadrolimo:
 Friends-only=Nur Geamikoj
-Fullscreen=Tute Enkrano
+Fullscreen=Plenekrano
 
 Gamma/Brightness:=Gamao/Brilo：
 Go back=Reveni
+
+Host LAN Server:=Gastigi LAN-an Servilon:
 
 INSTABILITY:=NESTABILECO：
 Invert Y-Axis=Inversigi Y-Akson
@@ -78,18 +80,18 @@ Loading...=Ŝarĝi...
 Local-only=Nur Loko
 Look sensitivity:=Sentemeco：
 
-Master volume:=Precipa Laŭteco：
+Master volume:=Ĉefa Sonforteco：
 Max players...=Maksimumo de Ludantoj...
 Maximized window=Maksimumigita Fenestron
 MODE: Push to talk=MANIERO: Depremu por Paroli
-MODE: Voice activation=MANIERO: Voĉa aktivigo
+MODE: Voice activation=MANIERO: Voĉa Aktivigo
 
 # N-Z
 Name your server...=Nomi vian Servilon...
 
 Online= Enreta
 
-r:"^Do you want to delete File (.+)\?$"=Ĉu vi volas forigi Dosieron?
+r:"^Do you want to delete File (.+)\?$"=Ĉu vi volas forigi Dosieron $1?
 
 Save File=Konservdosiero
 Server name:=Nomo de Servilo：
@@ -138,11 +140,11 @@ Interact=Interagi
 Item Secondary use=Aĵo Malĉefa Uzo
 Item Tertiary use=Aĵo Terciara Uzo
 Item drop=Item Forĵeti
-Item inspect=Item Ekzameni
+Item inspect=Item Inspeki
 Item primary use=Aĵo Ĉefa Uzo
 Item secondary use=Aĵo Malĉefa Uzo
-Item switch left=Aĵo-ŝaltilo maldekstre
-Item switch right=Aĵo-ŝaltilo dekstre
+Item switch left=Aĵo-ŝaltilo Maldekstre
+Item switch right=Aĵo-ŝaltilo Dekstre
 Item tertiary use=Aĵo Terciara Uzo
 
 Jump=Salti

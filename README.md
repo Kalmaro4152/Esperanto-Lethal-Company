@@ -15,6 +15,6 @@ Also, I think doing pull requests would also work..? I'm not certain, I'm new to
 ##CREDITS
 LynxBite, from the Russian Translation team for helping me figure a few things out. Also for giving me an unborked version of the Autotranslate mod.
 
-LudusTranslationis (https://github.com/benjenkinsv95/lethal-company-latin-mod/), for giving me pointer on how to develop the mod, and graciously lending his translation files so I could more easily translate the mod out.
+LudusTranslationis (benjenkinsv95) (https://github.com/benjenkinsv95/lethal-company-latin-mod/), for giving me pointer on how to develop the mod, and graciously lending his translation files so I could more easily translate the mod out.
 
 PLEASE FEEL FREE TO USE THIS MOD AS A BASE FOR CREATING YOUR OWN TRANSLATIONS! The more languages that this game is playable in, the better! Translation mods are the only thing we have until Zeekers sets up a Translation page.

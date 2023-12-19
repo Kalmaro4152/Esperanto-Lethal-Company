@@ -13,48 +13,48 @@
 85 Rend=85 Rend
 
 # A-M
-A competitive ecosystem supports aggressive lifeforms.= Konkurema ekosistemo subtenas agresemajn vivoformojn.
-Abandoned= Forlasita
-Arid. Thick haze, worsened by industrial artifacts.= Sekeco. Densa nebulo plimalbonigita de industriaj artekfaktoj.
+A competitive ecosystem supports aggressive lifeforms.=Konkurema ekosistemo subtenas agresemajn vivoformojn.
+Abandoned=Forlasita
+Arid. Thick haze, worsened by industrial artifacts.=Sekeco. Densa nebulo plimalbonigita de industriaj artekfaktoj.
 
-Dangerous entities have been rumored to take residence in the vast network of tunnels.= Laŭ onidiroj, danĝeraj estaĵoj loĝas en la vasta reto de tuneloj.
-Diverse= Diversa
-Dominated by a few species.= Pluraj specioj dominas.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Laŭ onidiroj, danĝeraj estaĵoj loĝas en la vasta reto de tuneloj.
+Diverse=Diversa
+Dominated by a few species.=Pluraj specioj dominas.
 
-Eclipsed= Eklipsita
-(Eclipsed)= (Eklipsita)
-Ecosystem supports territorial behaviour.= Ekosistemo subtenas teritorian konduton.
-Ecosystem supports territorial behaviour.= Ekosistemo subtenas teritorian konduton.
-Expansive. Constant rain.= Expansia. Ĉiama pluvo.
+Eclipsed=Eklipsita
+(Eclipsed)=(Eklipsita)
+Ecosystem supports territorial behaviour.=Ekosistemo subtenas teritorian konduton.
+Ecosystem supports territorial behaviour.=Ekosistemo subtenas teritorian konduton.
+Expansive. Constant rain.=Expansia. Ĉiama pluvo.
 
 #Original Latin word was Inundaatum, so this checks out.
-Flooded= Inundita
-Foggy= Nebula
-Frozen, rocky. Its planet orbits a white dwarf star.= Frostigita, roka. Ĉi tiu planedo orbitas ĉirkaŭ blanka nana stelo.
-Frozen, rocky. This moon was mined for resources. It's easy to get lost here.= Frostigita, roka. Ĉi tiu luno minis por ĝiaj materialoj.
+Flooded=Inundita
+Foggy=Nebula
+Frozen, rocky. Its planet orbits a white dwarf star.=Frostigita, roka. Ĉi tiu planedo orbitas ĉirkaŭ blanka nana stelo.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Frostigita, roka. Ĉi tiu luno minis por ĝiaj materialoj. Estas facile peridiĝi ĉi tie.
 
-HAZARD LEVEL:= DANGERA:
-Home base= Hejma Bazo
-Humid. Rough terrain. Teeming with plant-life.= Malseka. Malafabla tereno. Estas abunda de plantvivo.
+HAZARD LEVEL:=DANGERA RANGO:
+Home base=Hejma Bazo
+Humid. Rough terrain. Teeming with plant-life.=Malseka. Malafabla tereno. Estas abunda de plantvivo.
 
-Jagged and weathered terrain. = Denta kaj veteraĝa tereno. 
-Jagged and weathered terrain.= Denta kaj veteraĝa tereno. 
+Jagged and weathered terrain. =Denta kaj veteraĝa tereno. 
+Jagged and weathered terrain.=Denta kaj veteraĝa tereno. 
 
 Main entrance=Ĉefa Enirejo
 
 # N-Z
-No land masses. Continual storms.= Neniuj termasoj. Daŭraj Ŝtormoj.
+No land masses. Continual storms.=Neniuj termasoj. Daŭraj Ŝtormoj.
 
 Oxygen critically low!=Oksigeno Kritike Malalta!
 
 #Latin is Pluvia lol.
-Rainy= Pluva
+Rainy=Pluva
 
-Safe= Sendanĝera
-Stormy= Ŝtorma
-Stormy= Ŝtorma
+Safe=Sendanĝera
+Stormy=Ŝtorma
+Stormy=Ŝtorma
 
-Unlikely for complex life to exist\n= Malverŝajne, ke ekzistu kompleksa vivo\n
-Unknown= Nekonata
-Unknown\nWhere the Company resides.\n= Nekonata\nKie estas la Firmao.\n
-Unlikely for complex life to exist.= Komplesksa vivo ne verŝajne ekzistas.
+Unlikely for complex life to exist\n=Komplesksa vivo ne verŝajne ekzistas.
+Unknown=Nekonata
+Unknown\nWhere the Company resides.\n=Nekonata\nKie estas la Firmao.\n
+Unlikely for complex life to exist.=Komplesksa vivo ne verŝajne ekzistas.
