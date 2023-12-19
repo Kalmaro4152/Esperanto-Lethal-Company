@@ -46,15 +46,15 @@ BACK=REEN
 CONFIRM= KONFIRMI
 Confirm=Konfirmi
 CONTROLS=REGOJ
-Cosmetics Enabled:=Aktivigis Kosmetikojn：
+Cosmetics Enabled:=Aktivigis Kosmetikojn:
 Credits=Agnoskoj
-Crew Size:=Grandeco de Ŝipanaro：
+Crew Size:=Grandeco de Ŝipanaro:
 
 Delete=Forigi
 Discard changes=Forigi Ŝanĝojn
 Discard=Forigi
 DISCARD=Forigi
-Display mode:=Reĝimo de Ekrano：
+Display mode:=Reĝimo de Ekrano:
 DISPLAY=EKRANO
 
 ENABLED=AKTIVIGIS
@@ -64,12 +64,12 @@ Frame rate cap:=Kadrolimo:
 Friends-only=Nur Geamikoj
 Fullscreen=Plenekrano
 
-Gamma/Brightness:=Gamao/Brilo：
+Gamma/Brightness:=Gamao/Brilo:
 Go back=Reveni
 
 Host LAN Server:=Gastigi LAN-an Servilon:
 
-INSTABILITY:=NESTABILECO：
+INSTABILITY:=NESTABILECO:
 Invert Y-Axis=Inversigi Y-Akson
 
 Join=Aliĝi
@@ -78,9 +78,9 @@ LAN= LAN
 LAUNCH MODE=LANĈMODO
 Loading...=Ŝarĝi...
 Local-only=Nur Loko
-Look sensitivity:=Sentemeco：
+Look sensitivity:=Sentemeco:
 
-Master volume:=Ĉefa Sonforteco：
+Master volume:=Ĉefa Sonforteco:
 Max players...=Maksimumo de Ludantoj...
 Maximized window=Maksimumigita Fenestron
 MODE: Push to talk=MANIERO: Depremu por Paroli
@@ -94,7 +94,7 @@ Online= Enreta
 r:"^Do you want to delete File (.+)\?$"=Ĉu vi volas forigi Dosieron $1?
 
 Save File=Konservdosiero
-Server name:=Nomo de Servilo：
+Server name:=Nomo de Servilo:
 Servers=Serviloj
 Sort: far=Ordigi: Malproskime
 Sort: near=Ordigi: Proksime

@@ -3,7 +3,7 @@
 (Cannot hold until ship has landed)=(Ne rajtas teni ĝis la ŝipo alteriĝis.)
 (Dead)=(Morta)
 (Requires battery-powered item)=(Bezonas baterio-funkciigita aĵo.)
-(Spectating: )=(Spektas： )
+(Spectating: )=(Spektas: )
 [LIFE SUPPORT: OFFLINE]=[VIVSUBTENO: DEAKTIVIGITA]
 
 # A-M
@@ -25,12 +25,12 @@ Change: Pajama suit=Ŝanĝi: Piĵama Kostumo
 Confirm changes?=Konfirmi Ŝanĝojn?
 Continue=Daŭrigi
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Ne eblis konektiĝi al STEAM-serviloj! (Se vi nur volas ludi en via loka reto, elektu LAN ĉe lanĉo.)
-CREW:=Ŝipanaro：
+CREW:=Ŝipanaro:
 CRITICAL INJURY=KRITIKA VUNDO
 
 DEADLINE:\n NOW=LIMDATO:\n NUN
 Door controls=Pordaj Regoj
-DOOR HYDRAULICS:=PORDA HIDRAŬLIKO：
+DOOR HYDRAULICS:=PORDA HIDRAŬLIKO:
 Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nun forĵetu viajn metalajn aĵojn! Statikan ŝarĝon detektis! Restas al vi sekundoj por vivi!
 
 EMPLOYEE RANK=RANGO
@@ -60,7 +60,7 @@ Most profitable=Plej Profita
 
 # N-Z
 New creature data sent to terminal!=Sendis daton de nova estaĵo al la Terminalo!
-NEW PROFIT QUOTA:=NOVA PROFITA KVOTO：
+NEW PROFIT QUOTA:=NOVA PROFITA KVOTO:
 None=Neniu
 Notes: \n=Notoj: \n
 Notes:=Notoj:
@@ -79,7 +79,7 @@ Price=Prezo
 PRIVATE means you must send invites through Steam for players to join.=PRIVATA signifas, ke vi devas sendi invitojn per Steam por ke ludantoj aliĝi.
 PUBLIC means your game will be visible on the server list for all to see.=PUBLIKO signifas, ke via ludo estos videbla sur la servillisto por ke ĉiuj vidi..
 Public=Publika
-Push to talk:=Premi por paroli：
+Push to talk:=Premi por paroli:
 
 QUOTA REACHED!=ANTINGIS KVOTON!
 Quota=Kvoto
@@ -93,52 +93,52 @@ r:"^(.*) FPS$"=FPS $1
 r:"^(.*)\nAM"=AM $1
 r:"^(.*)\nPM"=PM $1
 r:"^(.+?)joined the ship(.+?)$"=$1 aliĝi la Ŝipon$2
-r:"^\Player (.+)"=(Ludanto: $1)
+r:"^Player: (.+)"=(Ludanto: $1)
 r:"^(.+) (Days|Day) Left$"=$1 Tago(j) Restas
-r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Viktomoj：$2\n（$3 Reakiris Korpojn）
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Viktomoj:$2\n（$3 Reakiris Korpojn）
 r:"^(.+) started the ship."=$1 aktivigis la Ŝipon.
 r:"^(.+) was left behind."=$1 estis forlasita.
 r:"^([0-9]+) lb$"=$1 lb
 r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nTagoj: $2
-r:"^(Current input device: \n)(.*)$"=Nuna eniga aparato：$2
+r:"^(Current input device: \n)(.*)$"=Nuna eniga aparato:$2
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Voĉdonoj)
-r:"^\(Spectating: (.+)\)$"=(Spekti： $1)
+r:"^\(Spectating: (.+)\)$"=(Spekti: $1)
 r:"^\[Cooldown : (.+)s\]$"=[Intertempo: $1s]
 r:"^\[MODDED\](.+?)$"=[Modifita]$1
 r:"^Body of (.+)$"=Korpo de $1
-r:"^Casualties \((.+)\): (.+)$"=Viktomoj ($1)：$2
-r:"^CELESTIAL BODY: (.+?)$"=ĈIELKORPO： $1
-r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Tagoj Laboris： $1\nValoro de Peceto Kolektis： $2\nMortoj： $3\nPaŝoj： $4
-r:"^DEADLINE:\n([0-9]+) Days$"=LIMTAGO：\n$1 Tago(j)
-r:"^DUE: (\$[0-9]+)$"=PAGENDA： $1
+r:"^Casualties \((.+)\): (.+)$"=Viktomoj ($1):$2
+r:"^CELESTIAL BODY: (.+?)$"=ĈIELKORPO: $1
+r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Tagoj Laboris: $1\nValoro de Peceto Kolektis: $2\nMortoj: $3\nPaŝoj: $4
+r:"^DEADLINE:\n([0-9]+) Days$"=LIMTAGO:\n$1 Tago(j)
+r:"^DUE: (\$[0-9]+)$"=PAGENDA: $1
 r:"^File ([0-9]+)$"=Dosiero $1
-r:"^MONITORING: (.+)$"=Monitorado： $1
-r:"^Overtime bonus: (.+)$"=Krompago： $1
-r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=PROFITA KVOTO：\n$1 / $2
+r:"^MONITORING: (.+)$"=Monitorado: $1
+r:"^Overtime bonus: (.+)$"=Krompago: $1
+r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=PROFITA KVOTO:\n$1 / $2
 r:"^Random seed: ([0-9]+)$"=Stokasto: $1
 r:"^(.*)Random seed(.*)$"=Stokasto: $2
-r:"^SHIP: (.+)$"=ŜIPO； $1
-r:"^TOTAL: (.+)$"=SUMO： $1
-r:"^Value: (.+)"=VALORO： $1
+r:"^SHIP: (.+)$"=ŜIPO: $1
+r:"^TOTAL: (.+)$"=SUMO: $1
+r:"^Value: (.+)"=VALORO: $1
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=ALERTO!\n Bonvolu reveni antaŭ (.+) -a. Voĉdono faris, kaj la aŭtopilota ŝipo frue foriros.
 
-Random seed: {{A}}=Stokasto：{{A}}
-Random seed: =Stokasto： 
+Random seed: {{A}}=Stokasto:{{A}}
+Random seed: =Stokasto: 
 
 Sell scrap for cash.=Vendi pecetojn por mono.
 Ship leaving in one hour=Ŝipo foriros post unu horo!
 
 sr:"^(.+?)collected!$"=$1 kolektis！
-sr:"^Cause of death: (.+)$"=Kaŭzo de morto： $1
-sr:"^Drop (.+?): \[G\]$"=Forĵeti $1： [G]
+sr:"^Cause of death: (.+)$"=Kaŭzo de morto: $1
+sr:"^Drop (.+?): \[G\]$"=Forĵeti $1: [G]
 sr:"^Spray : \[LMB\]$"=\nSpraji: [LMB]
 sr:"^Shake can : \[Q\]$"=\nAgitigi Ladskatlo: [Q]
-sr:"^Found journal entry: (.+)$"=Trovi taglibran enskribon： $1 
-sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notoj： \n* $1\n* $2\n* $3 \n* $4\n
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=En Orbito： $1\nPopulacio： $2\nKondiĉoj： $3\nFaŭno： $4$5$6
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=En Orbito： $1\nPopulacio： $2\nKondiĉoj： $3\nFaŭno： $4\nVetero： $5
-sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=Populacio： $1\nKondiĉoj： $2\nFaŭno： $3
-sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=Populacio： $1\nKondiĉoj： $2\nFaŭno： $3
+sr:"^Found journal entry: (.+)$"=Trovi taglibran enskribon: $1 
+sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notoj: \n* $1\n* $2\n* $3 \n* $4\n
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=En Orbito: $1\nPopulacio: $2\nKondiĉoj: $3\nFaŭno: $4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=En Orbito: $1\nPopulacio: $2\nKondiĉoj: $3\nFaŭno: $4\nVetero: $5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=Populacio: $1\nKondiĉoj: $2\nFaŭno: $3
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=Populacio: $1\nKondiĉoj: $2\nFaŭno: $3
 
 SPIDER=ARANEO
 Stats=Statistikoj
@@ -146,7 +146,7 @@ Strangulation=Strangolado
 Sustained the most injuries.=Suferis la plej vundojn
 SYSTEMS ONLINE=SISTEMOJ AKTIVAJ
 
-Tell autopilot ship to leave early : [RMB] (Hold)=Diru al la aŭtopilota ŝipo foriri frue ： [RMB] (Tene)
+Tell autopilot ship to leave early : [RMB] (Hold)=Diru al la aŭtopilota ŝipo foriri frue : [RMB] (Tene)
 Terminal=Terminalo
 The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=La aŭtopiloto nun provos flugi al la plej proksima sekura kosmohaveno. Viaj aĵoj estas forlasitaj.
 The Company must minimize risk of damage to proprietary hardware. Goodbye!=La Firmao devas minimumigi riskon de damaĝo al proprieta aparataro. Ĝis la Revido!
@@ -154,10 +154,10 @@ The file will NOT save! Your ship must be in orbit.=La dosiero ne konservos! Via
 The laziest employee.=La plej maldiligenta dungito.
 The host has not loaded or has already landed their ship.=La gastiganto ne estis ŝarĝita, aŭ jam surterigis sian ŝipon.
 The most paranoid employee.=La plej paranoja dungito.
-TIP:=INFORMO：
+TIP:=INFORMO:
 TO MEET PROFIT QUOTA=POR ATINGI PROFITKVOTON
 To sell, use the terminal to route the ship to the company building.=Por vende, uzu la terminalon por direkti la ŝipon al la firmaokonstruaĵo.
-TOTAL:=SUMO：
+TOTAL:=SUMO:
 Training manual=Trejna manlibro
 Typing...=Tajpi...
 
@@ -165,7 +165,7 @@ Uncapped=Senlimito
 Use the ship computer terminal to access secure doors.=Uzu la ŝipan komputilan terminalon por aliri sekurajn pordojn.
 Useful info!=Utila Informo!
 
-Value: ???=Valoro： ???
+Value: ???=Valoro: ???
 VISIBILITY LOW!\n\nSteam leak detected in area=VIDEBLECO MALALTA!\n\nVaporo liko en areo!
 Voice volume=Volumo de Voĉo
 Voted for ship to leave early=Voĉis por ŝipo foriri frue.
