@@ -158,6 +158,7 @@ Pro-flashlight=Profesia Poŝlampo
 # I couldn't find a translation for Booster, so Amplifier will do.
 Radar-booster=Radara Amplifilo
 Radar-booster =Radaran Amplifilon
+(Radar booster)=(Radara Amplifilo)
 Record Player=Diskludilo
 
 # We are not calling all sodas "cola" as that would be letting Coke win, and we are not lumping a can of sugar in with water [sodakvo]!
@@ -203,6 +204,7 @@ Sticky note =Adheran Noton
 Stop sign =Haltsignalon
 Stop sign=Haltsignalo
 Stun grenade =Ekbru-briletan Grenadon
+
 Table=Tablo
 Tattered metal sheet =Disŝiritan Ladon
 Tattered metal sheet=Disŝirita Lado
@@ -221,12 +223,18 @@ Toy robot=Ludila Roboto
 Tragedy=Tragedio
 Tragedy =Tragedion
 TZP-Inhalant =Enspirita-TZP-n
+
+Unnamed=Sennomita
+
 V-type engine =V-Modelan Motoron
 V-type engine=V-Modela Motoro
+
 Walkie-talkie =Radion
 Wedding ring =Edzigan Ringon
 Wedding ring =Edzigan Ringon
 Wedding ring=Edziga Ringo
 Whoopie cushion=Whoopie-kuseno
+
 Yield sign =Ripozsignalon
+
 Zap gun =Zappafilon
