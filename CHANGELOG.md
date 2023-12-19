@@ -13,7 +13,7 @@
 -Turned off autotranslate.
 
 
-##Release 1.2.0
+##Release 1.2.1
 -Corrected the casing of all the items in the game.
 
 -Added consistency to spacing of UI Elements.
@@ -22,4 +22,4 @@
 
 -Corrected more translations.
 
--We still don't know how to fix the font issues...
+-Hopefully Corrected one of the Font issues.
