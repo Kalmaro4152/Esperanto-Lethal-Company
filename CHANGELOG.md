@@ -12,4 +12,5 @@
 -Corrected the casing of all the items in the game.\n
 -Added consistency to spacing of UI Elements.\n
 -Cleaned up text formatting.\n
--Corrected more translations.
+-Corrected more translations.\n
+-We still don't know how to fix the font issues...
