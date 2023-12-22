@@ -60,7 +60,7 @@ Most profitable=Plej Profita
 
 # N-Z
 New creature data sent to terminal!=Sendis daton de nova estaĵo al la Terminalo!
-NEW PROFIT QUOTA:=NOVA PROFITA KVOTO:
+NEW PROFIT QUOTA:=NOVA KVOTO:
 None=Neniu
 Notes: \n=Notoj: \n
 Notes:=Notoj:
@@ -95,7 +95,7 @@ r:"^(.*)\nPM"=PM $1
 r:"^(.+?)joined the ship(.+?)$"=$1 aliĝi la Ŝipon$2
 r:"^Player: (.+)"=(Ludanto: $1)
 r:"^(.+) (Days|Day) Left$"=$1 Tago(j) Restas
-r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Viktomoj:$2\n（$3 Reakiris Korpojn）
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Viktomoj:$2\n ($3 Reakiris Korpojn)
 r:"^(.+) started the ship."=$1 aktivigis la Ŝipon.
 r:"^(.+) was left behind."=$1 estis forlasita.
 r:"^([0-9]+) lb$"=$1 lb
