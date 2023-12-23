@@ -73,7 +73,7 @@ Start ship : [E]=Aktivigi Kosmoŝipo: [E]
 Store item : [E]=Formeti Aĵon: [E]
 Swing shovel : [LMB]=Svingi Fosilon: [LMB]
 Swing sign : [LMB]=Svingi Signalon: [LMB]
-Switch camera : [E]=Ŝanĝi Fotilon: [E]
+Switch camera : [E]=Ŝanĝi Vidfotilon: [E]
 Switch lights : [E]=Baskuligi Lumojn: [E]
 
 Take TZP : [LMB]=Ingesti TZP-n: [LMB]

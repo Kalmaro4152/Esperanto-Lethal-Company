@@ -92,7 +92,7 @@ r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 r:"^(.*)\nAM"=AM $1
 r:"^(.*)\nPM"=PM $1
-r:"^(.+?)joined the ship(.+?)$"=$1 aliĝi la Ŝipon$2
+r:"^(.+?)joined the ship(.+?)$"=$1aliĝi la Ŝipon$2
 r:"^Player: (.+)"=(Ludanto: $1)
 r:"^(.+) (Days|Day) Left$"=$1 Tago(j) Restas
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Viktomoj: $2\n($3 Reakiris Korpojn)
@@ -112,7 +112,7 @@ r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps t
 r:"^DEADLINE:\n([0-9]+) Days$"=LIMTAGO:\n$1 Tago(j)
 r:"^DUE: (\$[0-9]+)$"=PAGENDA: $1
 r:"^File ([0-9]+)$"=Dosiero $1
-r:"^MONITORING: (.+)$"=Monitorado: $1
+r:"^MONITORING: (.+)$"=Monitorante: $1
 r:"^Overtime bonus: (.+)$"=Krompago: $1
 r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=PROFITA KVOTO:\n$1 / $2
 r:"^Random seed: ([0-9]+)$"=Stokasto: $1
