@@ -150,10 +150,10 @@ Pill bottle =Pilolujon
 Pill bottle=Pilolujo
 Plastic fish =Plastikan Fiŝon
 Plastic fish=Plastika Fiŝo
-Pro-flashlight =Profesian Poŝlampon
-Pro-flashlight =Profesian Poŝlampon
-Pro-flashlight=Profesia Poŝlampo
-Pro-flashlight=Profesia Poŝlampo
+Pro-flashlight =Pro-poŝlampon
+Pro-flashlight =Pro-poŝlampon
+Pro-flashlight=Pro-poŝlampo
+Pro-flashlight=Pro-poŝlampo
 
 # I couldn't find a translation for Booster, so Amplifier will do.
 Radar-booster=Radara Amplifilo
