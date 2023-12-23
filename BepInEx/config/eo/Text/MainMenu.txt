@@ -9,8 +9,8 @@
 (Recommended)=(Rekomendita)
 (Launched in LAN mode)=(Lanĉis en LAN-modo)
 [ Back ]=[ Reen ]
-[ Confirm ]=[ Konfirmi ]
-[ Continue ]=[ Daŭrigi ]
+[ Confirm ]=[Konfirmi]
+[ Continue ]=[Daŭrigi]
 [ Refresh ]=[Refreŝigi]
 
 > Back to menu=> Reen al Menuo
