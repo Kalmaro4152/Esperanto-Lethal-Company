@@ -1,0 +1,63 @@
+r:"(.*)Most profitable(.*)"=Notoj \nPlej profita\n
+r:"(.*)The laziest employee(.*)"=Notoj \nLa plej maldiligenta dungito\n
+r:"(.*)The most paranoid employee(.*)"=Notoj \nLa plej paranoja dungito\n
+
+The most paranoid employee.=La plej paranoja dungito
+
+# * The most paranoid employee.=* La plej paranoja dungito
+# * The most paranoid employee.\n* Sustained the most injuries.=* La plej paranoja dungito\n* Suferis la plej vundojn
+# Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notoj:\n* La plej maldiligenta dungito\n* La plej paranoja dungito\n* Suferis la plej vundojn
+# Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notoj:\n* La plej maldiligenta dungito\n* La plej paranoja dungito\n* Suferis la plej vundojn
+
+r:"(.*)Sustained the most injuries(.*)"=Notoj \nSuferis la plej vundojn\n
+# * Sustained the most injuries.=* Suferis la plej vundojn.
+
+Notes:=Notoj:
+Notes: \n=Notoj \n
+
+# r:"^Notes: \n* Most profitable$"=Notoj: \n* Plej profita
+# r:"^Notes: \n* Most profitable.$"=Notoj: \n* Plej profita.
+# r:"^Notes: \n* Most profitable\n$"=Notoj: \n* Plej profita\n
+# r:"^Notes: \n* The laziest employee.$"=Notoj: \n* La plej maldiligenta dungito.
+# r:"^Notes: \n* Most profitable.\n$"=Notoj: \n* Plej profita.\n
+# r:"^Notes: \n* The laziest employee.\n$"=Notoj: \n* La plej maldiligenta dungito.\n
+# r:"^Notes: \n* Most paranoid employee.$"=Notoj: \n* La plej paranoja dungito.
+# r:"^Notes: \n* Most paranoid employee.\n$"=Notoj: \n* La plej paranoja dungito.\n
+# r:"^Notes: \n* Sustained the most injuries.$"=Notoj: \n* Suferis la plej vundojn.
+# r:"^Notes: \n* The most paranoid employee.$"=Notoj: \n* La plej paranoja dungito.
+# r:"^Notes: \n* Sustained the most injuries.\n$"=Notoj: \n* Suferis la plej vundojn.\n
+# r:"^Notes: \n* The most paranoid employee.\n$"=Notoj: \n* La plej paranoja dungito.\n
+# r:"^Notes: \n* The laziest employee.\n* Most profitable$"=Notoj: \n* La plej maldiligenta dungito.\n* Plej profita
+# r:"^Notes: \n* The laziest employee.\n* Most profitable.$"=Notoj: \n* La plej maldiligenta dungito.\n* Plej profita.
+# r:"^Notes: \n* The laziest employee.\n* Most profitable\n$"=Notoj: \n* La plej maldiligenta dungito.\n* Plej profita\n
+# r:"^Notes: \n* The laziest employee.\n* Most profitable.\n$"=Notoj: \n* La plej maldiligenta dungito.\n* Plej profita.\n
+# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable$"=Notoj: \n* Suferis la plej vundojn.\n* Plej profita
+# r:"^Notes: \n* The most paranoid employee.\n* Most profitable$"=Notoj: \n* La plej paranoja dungito.\n* Plej profita
+# r:"^Notes: \n* The laziest employee.\n* Most paranoid employee.$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.
+# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable.$"=Notoj: \n* Suferis la plej vundojn.\n* Plej profita.
+# r:"^Notes: \n* The most paranoid employee.\n* Most profitable.$"=Notoj: \n* La plej paranoja dungito.\n* Plej profita.
+# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable\n$"=Notoj: \n* Suferis la plej vundojn.\n* Plej profita\n
+# r:"^Notes: \n* The most paranoid employee.\n* Most profitable\n$"=Notoj: \n* La plej paranoja dungito.\n* Plej profita\n
+# r:"^Notes: \n* The laziest employee.\n* Most paranoid employee.\n$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n
+# r:"^Notes: \n* The laziest employee.\n* Sustained the most injuries.$"=Notoj: \n* La plej maldiligenta dungito.\n* Suferis la plej vundojn.
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.
+# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable.\n$"=Notoj: \n* Suferis la plej vundojn.\n* Plej profita.\n
+# r:"^Notes: \n* The most paranoid employee.\n* Most profitable.\n$"=Notoj: \n* La plej paranoja dungito.\n* Plej profita.\n
+# r:"^Notes: \n* The laziest employee.\n* Sustained the most injuries.\n$"=Notoj: \n* La plej maldiligenta dungito.\n* Suferis la plej vundojn.\n
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n
+# r:"^Notes: \n* Sustained the most injuries.\n* Most paranoid employee.$"=Notoj: \n* Suferis la plej vundojn.\n* La plej paranoja dungito.
+# r:"^Notes: \n* Sustained the most injuries.\n* Most paranoid employee.\n$"=Notoj: \n* Suferis la plej vundojn.\n* La plej paranoja dungito.\n
+# r:"^Notes: \n* Sustained the most injuries.\n* The most paranoid employee.$"=Notoj: \n* Suferis la plej vundojn.\n* La plej paranoja dungito.
+# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.$"=Notoj: \n* La plej paranoja dungito.\n* Suferis la plej vundojn.
+# r:"^Notes: \n* Sustained the most injuries.\n* The most paranoid employee.\n$"=Notoj: \n* Suferis la plej vundojn.\n* La plej paranoja dungito.\n
+# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n$"=Notoj: \n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n
+# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable$"=Notoj: \n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita
+# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.$"=Notoj: \n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita.
+# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable\n$"=Notoj: \n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita\n
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n* Suferis la plej vundojn.
+# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.\n$"=Notoj: \n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita.\n
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita.
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable\n$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita\n
+# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.\n$"=Notoj: \n* La plej maldiligenta dungito.\n* La plej paranoja dungito.\n* Suferis la plej vundojn.\n* Plej profita.\n

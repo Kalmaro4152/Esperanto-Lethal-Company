@@ -11,6 +11,7 @@ Alert! The autopilot is leaving due to dangerous conditions.=AVERTO! La aŭtopil
 ALERT!=ALERTO!
 An error occurred!=Okazis Eraron!
 An error occured!=Okazis Eraron!
+AS MUCH PROFIT AS POSSIBLE=KIEL EBLE PLEJ MULTE DA PROFITO
 
 Blast=Explodo
 bludgeoning=Bastonego
@@ -18,16 +19,19 @@ BROADCASTED SPECIAL CODE=DISSENDIS SPECIALAN KODON
 Buy flashlights and travel to new planets!=Aĉetu poŝlampojn kaj vojaĝu al novajn lunojn!
 
 Can't stay closed forever=Ne povas resti eterna fermita...
+CHALLENGE RESULTS:=REZULTOJN DE DEFIO:
 Change suit=Ŝanĝi Kostumo
 Change: Green suit=Ŝanĝi: Verda Kostumo
 Change: Hazard suit=Ŝanĝi: Hazarda Kostumo
 Change: Pajama suit=Ŝanĝi: Piĵama Kostumo
+r:"^(\$[0-9]+) Collected$"=$1 Kolektis
 Confirm changes?=Konfirmi Ŝanĝojn?
 Continue=Daŭrigi
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Ne eblis konektiĝi al STEAM-serviloj! (Se vi nur volas ludi en via loka reto, elektu LAN ĉe lanĉo.)
 CREW:=Ŝipanaro:
 CRITICAL INJURY=KRITIKA VUNDO
 
+r:"([\s\S]+) disconnected."=$1 malkonektis.
 DEADLINE:\n NOW=LIMDATO:\n NUN
 Door controls=Pordaj Regoj
 DOOR HYDRAULICS:=PORDA HIDRAŬLIKO:
@@ -92,12 +96,13 @@ r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 r:"^(.*)\nAM"=AM $1
 r:"^(.*)\nPM"=PM $1
-r:"^(.+?)joined the ship(.+?)$"=$1aliĝi la Ŝipon$2
+r:"([\s\S]+) joined the ship."=$1 aliĝi al la Ŝipon.
 r:"^Player: (.+)"=(Ludanto: $1)
 r:"^(.+) (Days|Day) Left$"=$1 Tago(j) Restas
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Viktomoj: $2\n($3 Reakiris Korpojn)
-r:"^(.+) started the ship."=$1 aktivigis la Ŝipon.
-r:"^(.+) was left behind."=$1 estis forlasita.
+r:"([\s\S]+) started the ship."=$1 aktivigis la ŝipon.
+r:"([\s\S]+) was left behind."=$1 estis forlasita.
+r:"([\s\S]+) was kicked."=$1 forpelis.
 r:"^([0-9]+) lb$"=$1 lb
 r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nTagoj: $2
 r:"^(Current input device: \n)(.*)$"=Nuna eniga aparato:$2
@@ -125,6 +130,7 @@ r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship
 Random seed: {{A}}=Stokasto:{{A}}
 Random seed: =Stokasto: 
 
+(See how you compare to friends in the main menu leaderboard!)=(Vidu kiel vi komparas al amikoj en la ĉefmenua gvidtablo!)
 Sell scrap for cash.=Vendi pecetojn por mono.
 Ship leaving in one hour=Ŝipo foriros post unu horo!
 
@@ -174,9 +180,11 @@ Waiting for crew...=Atendas por Ŝipanaro...
 Waiting for input=Atendas Enigon
 Warning! No response from crew, which has not returned. Emergency code activated.=Averto! Neniu respondo de ŝipanaro, kiu ne revenis. Krizkodo aktivigis..
 WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=AVERTO!!! La aŭtopilota ŝipo foriros je noktomezo. Bonvolu reveni rapide.
+r:"^Welcome to\n(.+?)$"=Bonvenon al\n$1
 
 YOU ARE FIRED.=VI ESTAS MALDUNGITA.
 You did not meet the profit quota before the deadline.=Vi ne atingis la profitkvoton antaŭ la limtago.
 You did not meet the profit quota before the deadline.=Vi ne atingis la profitkvoton antaŭ la limtago.
 You have landed in an eclipse. Exercise caution!=Vi surterigis dum eklipso! Ekzercu singardemon!
 You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Restas 0 tagoj por plenumi la kvoton. Uzu la terminalon por iri al la Firmao kaj vendi.
+Your rank: =Via Rango: 

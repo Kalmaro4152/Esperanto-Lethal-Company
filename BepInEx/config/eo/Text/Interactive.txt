@@ -22,6 +22,8 @@ Disable speaker: [E]=Malŝalti Parolilo: [E]
 
 Enter : [E]=Eniri: [E]
 Enter: [E]=Eniri: [E]
+Enter a tag...=Enigu Etikedon...
+Enter server tag...=Enigu Servilan Etikedon
 Exit : [E]=Eliri: [E]
 Exit: [E]=Eliri: [E]
 
@@ -33,6 +35,7 @@ Get log : [E]=Preni Komentarion: [E]
 Grab : [E]=Preni: [E]
 Grab: [E]=Preni: [E]
 
+r:"^Hold(.*)"=Teni$1=
 Hit pumpkin : [E]=Trafi Kukurbon: [E]
 
 Inspect: [Z]=Inspekti: [Z]
@@ -40,6 +43,7 @@ Inspect: [Z]=Inspekti: [Z]
 Land ship : [E]=Alteriĝi Ŝipon: [E]
 Let go : [E]=Ellasi: [E]
 Lift glass : [E]=Alti Vitron: [E]
+r:"^Kick out (.*)"=Forpeli $1?
 
 # N-Z
 Open : [E]=Malfermi: [E]
@@ -48,6 +52,7 @@ Open hatch : [E]=Malfermi Lukon: [E]
 Open: [E]=Malfermi: [E]
 Open gift : [LMB]=Malferma Donacon: [LMB]
 
+r:"^Pet Cat(.*)"=Glatumi Katon$1
 Place on door : [LMB]=Meti sur Pordo: [LMB]
 Play record: [E]=Ludi Diskon: [E]
 Pop up ladder : [LMB]=Malfoldi Ŝtuparon: [LMB]
@@ -61,6 +66,7 @@ Reload : [E]=Reŝarĝi: [E]
 Ring bell: [E]=Sonorigi Sonilon: [E]
 
 Scan : [RMB]=Skani: [RMB]
+r:"^Scan for threat:(.*)"=Skani por Minacon$1
 Sell item : [E]=Vendi Aĵon: [E]
 Send voice : [LMB]=Sendi Voĉon: [LMB]
 Set candles: [E]=Meti Kandelojn: [LMB]
@@ -75,6 +81,7 @@ Swing shovel : [LMB]=Svingi Fosilon: [LMB]
 Swing sign : [LMB]=Svingi Signalon: [LMB]
 Switch camera : [E]=Ŝanĝi Vidfotilon: [E]
 Switch lights : [E]=Baskuligi Lumojn: [E]
+r:"^Switch water(.*)"=Baskuligi Akvon$1
 
 Take TZP : [LMB]=Ingesti TZP-n: [LMB]
 Toggle light : [LMB]=Baskuligi Lumon: [LMB]
@@ -100,5 +107,6 @@ Use Large axle : [G]=Uzi Grandan Akson: [G]
 Use remote : [LMB]=Uzi Teleregilon: [LMB]
 
 Walk : [W/A/S/D]=Marŝi: [W/A/S/D]
+r:"^Wear mask(.*)"=Porti Maskon$1
 
 sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2):$3
