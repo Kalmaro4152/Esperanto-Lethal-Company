@@ -1,10 +1,11 @@
 {
   "name": "AmateurEsperantoTranslation",
-  "version_number": "1.2.1",
+  "version_number": "2.0.0",
   "website_url": "https://github.com/Kalmaro4152/Esperanto-Lethal-Company",
   "description": "[Localization / Translation] Amatora Esperanta Tradukado de Lethal Company faris kiel praktiko! Ĝi faris per Unity Autotranslate, parigita kun mane tradukado.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100", 
-	"Aavild-NewTerminal-1.4.0"
+	"Aavild-NewTerminal-1.4.0",
+	"Hayrizan-XUnity_AutoTranslator-5.3.0"
   ]
 }

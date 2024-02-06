@@ -1,17 +1,9 @@
-## Release 1.0.0
--Nearly completely translated mod.
-
--This does not include the terminal.
-
-## Release 1.1.5
--Corrected file directories, making the mod useable.
-
--Updated more Strings.
-
--Added Linebreaks to the text files.
-
--Turned off autotranslate.
-
+## Release 2.0.0
+-NEWLY UPDATED MOD!!!
+-Added some new strings
+-Updated some older strings
+-Added Hayrizan-XUnity_AutoTranslator-5.3.0 as a dependency
+-ADDED TERMINAL SUPPORT! MOST OF THE TERMINAL IS TRANSLATED, WITH THE EXCEPTION OF THE BESTIARY AND SIGURD ENTRIES, PARTLY OUT OF LAZINESS, PARTLY OUT OF FEAR OF THE AMOUNT OF WORK TO DO!
 
 ## Release 1.2.1
 -Corrected the casing of all the items in the game.
@@ -23,3 +15,8 @@
 -Corrected more translations.
 
 -Fixed Missing Colon issue.
+
+## Release 1.0.0
+-Nearly completely translated mod.
+
+-This does not include the terminal.
