@@ -1,3 +1,6 @@
+## Release 2.0.2
+-Updated with Translations from CodeWeaverCW (Dankon por via laboro, amiko!)
+
 ## Release 2.0.1
 -NEWLY UPDATED MOD!!!
 
