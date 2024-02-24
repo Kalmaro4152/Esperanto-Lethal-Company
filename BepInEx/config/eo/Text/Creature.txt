@@ -1,26 +1,30 @@
 ﻿# Creatures
-#TODO: Review and Standardize
 
-Baboon hawk=Paviana Akcipitro
+# Noto: Sekvante bonan Esperantan stilon (kaj ĉi-okaze la plej oftan
+# stilon de la originala ludo), ne ĉiu vorto en nomo havas majusklon.
+
+Baboon hawk=Pavian-vulturo     # scienca nomo = papio-volturius
 Bracken=Brakeno
-Bunker spider=Bunkra Araneo
-Circuit bees=Cirkvitaj Abeloj
-Coil-head=Risorta-Kapo
-Earth leviathan=Tera Levjatano
-Eyeless dog=Senokula Hundo
+Bunker spider=Bunkro-araneo
+Circuit bees=Elektraj krabroj  # scienca nomo = crabro-coruscus
+Coil-head=Risorto-kapo
+Earth leviathan=Tera levjatano
+Eyeless dog=Senokula hundo
 Flowerman=Floroviro
-Forest Giant=Arbara Grandulo
-Forest keeper=Arbara Grandulo
-Ghost girl=Fantoma Knabino
-Hoarding bug=Akaparanta Insekto
-Hygrodere=Hajgrodero
-Jeb=Jeb
+Forest Giant=Arbara giganto
+Forest keeper=Arbara giganto
+Ghost girl=Fantomino
+Hoarding bug=Kolekto-cimo
+# Ŝajne «hygrodere» estas tajperaro, kaj ĝi estu «hydrogere».
+# Mi sekvas tion kaj ankaŭ vortludas -- «hidro-» kaj «giro».
+Hygrodere=Hidrogiro
+Jeb=Ĝeb    # Ĉi tio estas la korporacia monstro, kiu aĉetas.
 Jester=Spritulo
-Landmine=Termino
-Manticoil=Manticolo
-Nutcracker=Nuksrompilo
-Roaming locusts=Vaganta Akrido
-Snare flea=Kaptila Pulo
-Spore lizard=Spora Lacerto
-Thumper=Frapegulo
-Turret=Pafiltureto
+Landmine=Mino
+Manticoil=Mantokorvo   # Ĝi estas ano de korvedoj, kaj havas mantecajn flugilojn
+Nutcracker=Nuksrompulo
+Roaming locusts=Flugantaj akridoj
+Snare flea=Kapto-pulo
+Spore lizard=Sporo-lacerto
+Thumper=Frapulo
+Turret=Pafilo    # «Tureto» estas la ŝirmejo ĉirkaŭ pafilo/kanono
