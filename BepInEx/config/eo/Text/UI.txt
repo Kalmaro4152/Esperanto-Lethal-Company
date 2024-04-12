@@ -172,6 +172,7 @@ Use the ship computer terminal to access secure doors.=Uzu la ŝipan komputilan 
 Useful info!=Utila Informo!
 
 Value: ???=Valoro: ???
+Value: =Valoro: 
 VISIBILITY LOW!\n\nSteam leak detected in area=VIDEBLECO MALALTA!\n\nVaporo liko en areo!
 Voice volume=Volumo de Voĉo
 Voted for ship to leave early=Voĉis por ŝipo foriri frue.

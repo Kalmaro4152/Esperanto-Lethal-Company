@@ -26,11 +26,12 @@
 > Invite friends=> Inviti Geamikojn
 > Join a crew=> Aliĝi al Ŝipanaro
 > LAN=> LAN
+> Mod Settings=> Mod-Agordoj
 > Online=> Enreta
 > Quit=> Eliri
 > Reset all to default=> Reveni ĉion al defaŭlto
 > Resume=> Daŭrigi
-> Settings=> Agordaĵoj
+> Settings=> Agordoj
 
 # A-M
 ACCESSIBILITY=ALIREBLECO
@@ -60,6 +61,7 @@ DISPLAY=EKRANO
 ENABLED=AKTIVIGIS
 Enter a lobby name!=Enigu Nomon de la Ludvestiblo！
 
+File incompatible!=Dosiero nekongrua!
 Frame rate cap:=Kadrolimo:
 Friends-only=Nur Geamikoj
 Fullscreen=Plenekrano
@@ -96,6 +98,8 @@ r:"^Do you want to delete File (.+)\?$"=Ĉu vi volas forigi Dosieron $1?
 Save File=Konservdosiero
 Server name:=Nomo de Servilo:
 Servers=Serviloj
+Some of your save files may not be compatible with version 50 and may be corrupted if you play them.=Iuj el viaj Konservaj Dosieroj eble ne kongruas kun la versio 50 kaj eble koruptiĝos se vi ludas ilin.
+
 Sort: far=Ordigi: Malproskime
 Sort: near=Ordigi: Proksime
 Sort: worldwide=Ordigi: Tuta Mondo

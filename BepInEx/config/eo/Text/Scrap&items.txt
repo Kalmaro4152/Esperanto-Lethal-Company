@@ -67,6 +67,10 @@ Dust Pan =Polvujon
 Dust pan=Polvujo
 Dust Pan=Polvujo
 
+Easter egg =Paskan Ovon
+Easter Egg =Paskan Ovon
+‎Easter egg=Paska Ovo
+Easter Egg=Paskan Ovon
 Echo Scanner =Eĥan Skanilon
 Egg beater =Kirlilon
 Egg Beater =Kirlilon
@@ -103,8 +107,10 @@ Hairdryer =Harsekigilon
 Hairdryer=Harsekigilo
 Hive =Abelujon
 Hive=Abelujo
-Homemade flashbang=Hejmfarita Ekbru-brileto
-Homemade flashbang =Hejmfaritan Ekbru-brileton
+Homemade flashbang=Memfarita Ekbru-brileto
+Homemade flashbang =Memfaritan Ekbru-brileton
+Homemade Flashbang=Memfarita Ekbru-brileto
+Homemade Flashbang =Memfarita Ekbru-brileton
 
 #In Latin: Transportātor inversus
 Inverse Teleporter=Inversa Teleportilo
@@ -116,6 +122,8 @@ Jar of pickles=Ujo de Kukumetoj
 Jetpack=Dorsjeto
 Key =Ŝlosilon
 Key=Ŝlosilo
+Kitchen knife=Kuireja tranĉilo
+Kitchen knife =Kuirejan tranĉilon
 Comedy=Komedio
 Comedy =Komedion
 Large axle =Grandan Akson

@@ -1,7 +1,7 @@
-## Release 2.0.2
--Updated with Translations from CodeWeaverCW (Dankon por via laboro, amiko!)
+## Release 2.1.0
+-Updated strings for Version 50!
 
-## Release 2.0.1
+## Release 2.0.2
 -NEWLY UPDATED MOD!!!
 
 -Added some new strings
@@ -13,6 +13,8 @@
 -ADDED TERMINAL SUPPORT! MOST OF THE TERMINAL IS TRANSLATED, WITH THE EXCEPTION OF THE BESTIARY AND SIGURD ENTRIES, PARTLY OUT OF LAZINESS, PARTLY OUT OF FEAR OF THE AMOUNT OF WORK TO DO!
 
 -fixed the formatting of the changelog I hate this site bruh
+
+-Updated with Translations from CodeWeaverCW (Dankon por via laboro, amiko!)
 
 ## Release 1.2.1
 -Corrected the casing of all the items in the game.

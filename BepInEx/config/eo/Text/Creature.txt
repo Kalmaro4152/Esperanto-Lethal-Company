@@ -6,6 +6,7 @@
 Baboon hawk=Pavian-vulturo     # scienca nomo = papio-volturius
 Bracken=Brakeno
 Bunker spider=Bunkro-araneo
+Butler=Ĉefservisto
 Circuit bees=Elektraj krabroj  # scienca nomo = crabro-coruscus
 Coil-head=Risorto-kapo
 Earth leviathan=Tera levjatano
@@ -22,9 +23,12 @@ Jeb=Ĝeb    # Ĉi tio estas la korporacia monstro, kiu aĉetas.
 Jester=Spritulo
 Landmine=Mino
 Manticoil=Mantokorvo   # Ĝi estas ano de korvedoj, kaj havas mantecajn flugilojn
+Mask Hornets=Maskaj Krabroj
 Nutcracker=Nuksrompulo
-Roaming locusts=Flugantaj akridoj
+Old Bird=Malnova Birdo
+Roaming locusts=Vagantaj akridoj
 Snare flea=Kapto-pulo
 Spore lizard=Sporo-lacerto
 Thumper=Frapulo
+Tulip Snake=Tulip-Serpento
 Turret=Pafilo    # «Tureto» estas la ŝirmejo ĉirkaŭ pafilo/kanono

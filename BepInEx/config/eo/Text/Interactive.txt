@@ -37,6 +37,7 @@ Grab: [E]=Preni: [E]
 
 r:"^Hold(.*)"=Teni$1=
 Hit pumpkin : [E]=Trafi Kukurbon: [E]
+Hold: [Alt]=Depremi: [ALT]
 
 Inspect: [Z]=Inspekti: [Z]
 
@@ -57,7 +58,8 @@ Place on door : [LMB]=Meti sur Pordo: [LMB]
 Play record: [E]=Ludi Diskon: [E]
 Pop up ladder : [LMB]=Malfoldi Ŝtuparon: [LMB]
 Power button : [Q]=Potenca Butono: [Q]
-Pull pin : [LMB]=Tiri Pinglo: [LMB]
+Pull pin : [LMB]=Tiri Pinglon: [LMB]
+Pull pin: [LMB]=Tiri Pinglon: [lmb]
 Pull switch : [E]=Tiri Ŝaltilon: [E]
 
 Quit terminal : [TAB]=Lasi Terminalon: [TAB]
@@ -74,6 +76,7 @@ Shake can : [Q]=Agitigi Ladskatolo: [Q]
 Sprint: [Shift]=Sprinti: [Shift]
 Spray : [LMB]=Spraji: [LMB]
 Squeeze : [E]=Stringi: [E]
+Stab : [LMB]=Mortpiki: [LMB]
 Start game : [E]=Ekludi: [E]
 Start ship : [E]=Aktivigi Kosmoŝipo: [E]
 Store item : [E]=Formeti Aĵon: [E]
@@ -84,9 +87,11 @@ Switch lights : [E]=Baskuligi Lumojn: [E]
 r:"^Switch water(.*)"=Baskuligi Akvon$1
 
 Take TZP : [LMB]=Ingesti TZP-n: [LMB]
+Throw grenade: [LMB]=Ĵeti grenado: [LMB]
 Toggle light : [LMB]=Baskuligi Lumon: [LMB]
 Toggle laser : [LMB]=Baskuligi Lasero: [LMB]
 Toggle music : [LMB]=Baskuligi Muzikon: [LMB]
+Toss egg: [LMB]=Ĵetu ovon: [LMB]
 Turn on booster : [LMB]=Aktivigi Amplifilon: [LMB]
 Turn on/off : [E]=Ŝalti/Malŝalti: [E]
 Turn safety on: [Q]=Ŝalti Sekurecon: [Q]
